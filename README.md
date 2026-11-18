@@ -1,0 +1,2 @@
+# FadiForexGoldBot
+Private
